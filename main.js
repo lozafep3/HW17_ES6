@@ -30,7 +30,7 @@ class Client {
     removeData() {
         localStorage.removeItem(this.id);
 
-        console.log(`Data removed: client #${this.id} ${this.firstName} ${this.lastName}`);
+        console.log(`Data removed: ${this.id} ${this.firstName} ${this.lastName}`);
     }
 
 }
