@@ -19,9 +19,11 @@ payment (senders card, receivers card, amount, currency, date)
 Each class should has appropriate methods and properties (up to you!)
 
 
-
 Library should allow to:
 
 create/update/delete instances for all internal classes
 fetch data about any item
 To use ES6 features as much as possible.
+
+
+http://slides.com/olegrovenskyi/es6/
